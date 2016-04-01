@@ -7,6 +7,8 @@ If you need a real driver right now you should absolutely use [finagle-postgres]
 
 
 ## Badges
+
+[![Join the chat at https://gitter.im/finagle/roc](https://badges.gitter.im/finagle/roc.svg)](https://gitter.im/finagle/roc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![PyPI](https://img.shields.io/pypi/l/Django.svg?style=plastic)]()
 [![Circle CI](https://circleci.com/gh/penland365/roc/tree/master.svg?style=svg&circle-token=07305c9575ac3fcf0ab5bade8ae2f29921ac04c9)](https://circleci.com/gh/penland365/roc/tree/master)
 [![codecov.io](https://codecov.io/github/penland365/roc/coverage.svg?branch=master)](https://codecov.io/github/penland365/roc?branch=master)
